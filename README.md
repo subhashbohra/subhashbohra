@@ -15,5 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashbohra)](https://github.com/subhashbohra/github-readme-stats)
+## Sample DevOps Project
+This repository includes a [sample DevOps project](sample-devops-project/README.md) demonstrating a minimal CI/CD pipeline using GitHub Actions.
 
-
+## DevOps Project 1
+This repository contains [DevOps Project 1](devops_project1/README.md) which demonstrates a simple CI/CD pipeline.
